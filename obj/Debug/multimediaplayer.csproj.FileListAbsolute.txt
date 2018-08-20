@@ -1,0 +1,34 @@
+F:\c#\multimediaplayer\multimediaplayer\bin\Debug\multimediaplayer.exe.config
+F:\c#\multimediaplayer\multimediaplayer\bin\Debug\multimediaplayer.exe
+F:\c#\multimediaplayer\multimediaplayer\bin\Debug\multimediaplayer.pdb
+F:\c#\multimediaplayer\multimediaplayer\bin\Debug\Interop.WMPLib.dll
+F:\c#\multimediaplayer\multimediaplayer\bin\Debug\AxInterop.WMPLib.dll
+F:\c#\multimediaplayer\multimediaplayer\obj\Debug\multimediaplayer.csprojResolveAssemblyReference.cache
+F:\c#\multimediaplayer\multimediaplayer\obj\Debug\Interop.WMPLib.dll
+F:\c#\multimediaplayer\multimediaplayer\obj\Debug\AxInterop.WMPLib.dll
+F:\c#\multimediaplayer\multimediaplayer\obj\Debug\multimediaplayer.csproj.ResolveComReference.cache
+F:\c#\multimediaplayer\multimediaplayer\obj\Debug\multimediaplayer.Form1.resources
+F:\c#\multimediaplayer\multimediaplayer\obj\Debug\multimediaplayer.Properties.Resources.resources
+F:\c#\multimediaplayer\multimediaplayer\obj\Debug\multimediaplayer.csproj.GenerateResource.Cache
+F:\c#\multimediaplayer\multimediaplayer\obj\Debug\multimediaplayer.exe
+F:\c#\multimediaplayer\multimediaplayer\obj\Debug\multimediaplayer.pdb
+F:\Programmes\New folder\c#\Gui programs\multimediaplayer\multimediaplayer\bin\Debug\multimediaplayer.exe.config
+F:\Programmes\New folder\c#\Gui programs\multimediaplayer\multimediaplayer\obj\Debug\Interop.WMPLib.dll
+F:\Programmes\New folder\c#\Gui programs\multimediaplayer\multimediaplayer\obj\Debug\AxInterop.WMPLib.dll
+F:\Programmes\New folder\c#\Gui programs\multimediaplayer\multimediaplayer\obj\Debug\multimediaplayer.csproj.ResolveComReference.cache
+F:\Programmes\New folder\c#\Gui programs\multimediaplayer\multimediaplayer\obj\Debug\multimediaplayer.exe
+F:\Programmes\New folder\c#\Gui programs\multimediaplayer\multimediaplayer\obj\Debug\multimediaplayer.pdb
+C:\Users\Romeo\Desktop\multimediaplayer\multimediaplayer\bin\Debug\multimediaplayer.exe.config
+C:\Users\Romeo\Desktop\multimediaplayer\multimediaplayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Romeo\Desktop\multimediaplayer\multimediaplayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Romeo\Desktop\multimediaplayer\multimediaplayer\obj\Debug\multimediaplayer.csproj.ResolveComReference.cache
+C:\Users\Romeo\Desktop\multimediaplayer\multimediaplayer\obj\Debug\multimediaplayer.exe
+C:\Users\Romeo\Desktop\multimediaplayer\multimediaplayer\obj\Debug\multimediaplayer.pdb
+C:\Users\Romeo\Desktop\multimediaplayer\multimediaplayer\bin\Debug\multimediaplayer.exe
+C:\Users\Romeo\Desktop\multimediaplayer\multimediaplayer\bin\Debug\multimediaplayer.pdb
+C:\Users\Romeo\Desktop\multimediaplayer\multimediaplayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Romeo\Desktop\multimediaplayer\multimediaplayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Romeo\Desktop\multimediaplayer\multimediaplayer\obj\Debug\multimediaplayer.csprojResolveAssemblyReference.cache
+C:\Users\Romeo\Desktop\multimediaplayer\multimediaplayer\obj\Debug\multimediaplayer.Form1.resources
+C:\Users\Romeo\Desktop\multimediaplayer\multimediaplayer\obj\Debug\multimediaplayer.Properties.Resources.resources
+C:\Users\Romeo\Desktop\multimediaplayer\multimediaplayer\obj\Debug\multimediaplayer.csproj.GenerateResource.Cache
